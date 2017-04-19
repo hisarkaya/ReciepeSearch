@@ -1,0 +1,25 @@
+.search-box {
+  margin: 10px;
+  text-align: center;
+}
+
+.search-box input {
+  width: 75%;
+}
+
+.card-item {
+  width: 200px;
+  float: left;
+  margin: 5px;
+  height: 330px;
+}
+
+.card-container {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+  margin: 10px;
+}
